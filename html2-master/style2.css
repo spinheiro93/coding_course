@@ -1,0 +1,9 @@
+ul.nav li{ 
+                display: inline-block;
+                padding-right: 10px; background-color: red;
+            } 
+a {color: white;}
+#explanation li {color:black;}
+ul li {color: blue;}
+ul.important li{text-decoration: strong}
+/* make the li with id="colors_list" purple */
