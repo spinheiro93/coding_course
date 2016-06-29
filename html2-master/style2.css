@@ -5,5 +5,5 @@ ul.nav li{
 a {color: white;}
 #explanation li {color:black;}
 ul li {color: blue;}
-ul.important li{text-decoration: strong}
+.important {font-weight: 600}
 /* make the li with id="colors_list" purple */
